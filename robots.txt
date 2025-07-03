@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://krevo.vn/sitemap.xml
+
+# Allow favicon and images
+Allow: /img/
+Allow: /img/io/
+Allow: /img/io/favicon.ico
+Allow: /img/io/favicon-16x16.png
+Allow: /img/io/favicon-32x32.png
+Allow: /img/io/apple-touch-icon.png
+Allow: /img/io/android-chrome-192x192.png
+Allow: /img/io/android-chrome-512x512.png
+
+# Crawl delay
+Crawl-delay: 1 
